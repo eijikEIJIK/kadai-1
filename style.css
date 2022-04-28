@@ -29,7 +29,8 @@ main{
 .img{
     width:100%;
     height:150px;
-    background-size:cover;
+    background-size: cover;
+    background-position:bottom;
 }
 #img1{
     background-image: url(img/flow01.png);
