@@ -11,6 +11,7 @@ header{
 }
 
 main{
+    width:100%;
     padding:50px 0;
 }
 .item-box{
@@ -67,6 +68,7 @@ footer{
         display:block;
     }
     .item{
+        width:100%;
         margin:0 auto;
         margin-bottom:20px;
     }
